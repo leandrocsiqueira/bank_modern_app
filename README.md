@@ -1,6 +1,6 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![Application screenshot]('.src/assets/hoobankMainArea.png)
+![Application screenshot](./src/assets/hoobankMainArea.png)
 
 ### Brief Description
 
