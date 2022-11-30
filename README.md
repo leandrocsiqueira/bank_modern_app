@@ -1,7 +1,7 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank]('../bank_modern_app/src/assets/hoobankMainArea.png?raw=true 'Screen')
+![HooBank]('.src/assets/hoobankMainArea.png)
 
 ### Brief Description
 
-In this project, I've built a responsive ReactJS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, and many other features!
+In this project, I've built a responsive application using React.js and Tailwind CSS. The application consists of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, and many other features!
